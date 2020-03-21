@@ -1,7 +1,7 @@
 # Memory-Allocator
-Assignment One: ++Malloc
+++Malloc
 
-0. This assignment is an implementation of pseudo-malloc and free
+0. This is an implementation of pseudo-malloc and free
 functions to simulate how the two functions operate in the C language.
 There are 3 files: mymalloc.c, mymalloc.h, and memgrind.c. The
 mymalloc.c is the code for the actual malloc and free functions, the
